@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ejemplo</string>
+    <string name="toast_btn">Mostrar en Toast</string>
+    <string name="snack_btn">Mostrar en Snackbar</string>
+    <string name="log_btn">Mostrar en Logs</string>
+    <string name="txt_hint">Ingresa mensaje</string>
 </resources>
