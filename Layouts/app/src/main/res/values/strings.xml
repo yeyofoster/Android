@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts Android</string>
+    <string name="Linear_Layout">Linear Layout</string>
+    <string name="Constraint_Layout">Constraint Layout</string>
+    <string name="Relative_Layout">Relative Layout</string>
+    <string name="Grid_Layout">Grid Layout</string>
+    <string name="Scroll_view">Scroll View</string>
+    <string name="Greet">¡Saludos, Yeyo Foster!</string>
+</resources>

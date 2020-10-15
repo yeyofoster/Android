@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D3557</color>
+    <color name="colorPrimaryDark">#404040</color>
+    <color name="colorPrimaryVariant">#457B9D</color>
+    <color name="colorAccent">#F1FAEE</color>
+    <color name="cgBlue">#1282A2</color>
+    <color name="indigoDye">#034078</color>
+    <color name="roseMadder">#DF2935</color>
+    <color name="sunglow">#FDCA40</color>
+</resources>
